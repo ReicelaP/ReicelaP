@@ -1,5 +1,8 @@
-## Hi there👋
-
+<h2 id="header" align="left">
+<img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="100" height="100"/> 
+  <strong>My name is Reicela</strong>
+  </h2> 
+<br>
 
 ➡️ I am a Software Developer. 
 
