@@ -1,7 +1,7 @@
 #### Hi there👋
 
 
-🐝 I am Software Developer. 
+🐝 I am a Software Developer. 
 
 🐝 Focusing on the C# backend development.
 
