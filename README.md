@@ -1,11 +1,11 @@
 #### Hi there👋
 
 
-🐝 I am a Software Developer. 
+➡️ I am a Software Developer. 
 
-🐝 Focusing on the C# backend development.
+➡️ Focusing on the C# backend development.
 
-🐝 Currently working on the Web API application.
+➡️ Currently working on the Web API application.
 <br>
 <br>
 
