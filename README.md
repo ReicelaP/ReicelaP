@@ -20,4 +20,3 @@
 <br>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReicelaP&theme=dracula)](https://github.com/ReicelaP&theme=dracula/github-readme-stats)
